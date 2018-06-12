@@ -28,6 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Who to deploy
+0. git commit / git push
+` git push origin master `
 1. build
 ``` 
  ng build --prod --base-href "https://nnn-kakimoto.github.io/angular-tour-of-heroes/"
